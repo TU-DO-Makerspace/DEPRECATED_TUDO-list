@@ -1,4 +1,4 @@
 # TUDO list
 - [ ] Feinwerkstatt aufbauen
 - [ ] Kühlschrank putzen
-- [ ] Anlage mit Bluetooth ausrüsten
+- [x] Anlage mit Bluetooth ausrüsten --> Schnackus hat hier nen reciever schon in Bestellung.
