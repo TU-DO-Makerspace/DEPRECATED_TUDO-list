@@ -1,2 +1,4 @@
-# TUDO
-A TUDO list for the TUDO
+# TUDO list
+- [ ] Feinwerkstatt aufbauen
+- [ ] Kühlschrank putzen
+- [ ] Anlage mit Bluetooth ausrüsten
