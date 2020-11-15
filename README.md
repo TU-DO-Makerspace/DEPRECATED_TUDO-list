@@ -10,3 +10,4 @@
 - [ ] Kaffeemaschine ans Abwasser anschließen
 - [ ] Seife!
 - [ ] Javelin Juggler 2 (mit IOS support)
+- [ ] Neue Pfannen
