@@ -3,7 +3,8 @@
 - [ ] Kühlschrank putzen
 - [x] Anlage mit Bluetooth ausrüsten --> Schnackus hat hier nen reciever schon in Bestellung.
 - [ ] Gummihandschuhe und anderen cleaning stuff besorgen
-- [ ] Neuer Wasserhahn
+- [ ] Neuer Wasserhahn im Cafe
+- [ ] Neuer Boden Feinwerkstatt (überlegen)
 - [ ] Die fetten Scheinwerfer im Café überdenken
 - [ ] Neues logo entwerfen
 - [ ] Kaffeemaschine ans Abwasser anschließen
