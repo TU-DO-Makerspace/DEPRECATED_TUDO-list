@@ -8,4 +8,5 @@
 - [ ] Die fetten Scheinwerfer im Café überdenken
 - [ ] Neues logo entwerfen
 - [ ] Kaffeemaschine ans Abwasser anschließen
+- [ ] Seife!
 - [ ] Javelin Juggler 2 (mit IOS support)
