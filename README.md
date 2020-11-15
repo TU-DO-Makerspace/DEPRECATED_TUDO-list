@@ -6,3 +6,5 @@
 - [ ] Neuer Wasserhahn
 - [ ] Die fetten Scheinwerfer im Café überdenken
 - [ ] Neues logo entwerfen
+- [ ] Kaffeemaschine ans Abwasser anschließen
+- [ ] Javelin Juggler 2 (mit IOS support)
