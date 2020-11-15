@@ -9,5 +9,6 @@
 - [ ] Neues logo entwerfen
 - [ ] Kaffeemaschine ans Abwasser anschließen
 - [ ] Seife!
-- [ ] Javelin Juggler 2 (mit IOS support)
 - [ ] Neue Pfannen
+- [ ] Papiermüll
+- [ ] Javelin Juggler 2 (mit IOS support)
