@@ -5,3 +5,4 @@
 - [ ] Gummihandschuhe und anderen cleaning stuff besorgen
 - [ ] Neuer Wasserhahn
 - [ ] Die fetten Scheinwerfer im Café überdenken
+- [ ] Neues logo entwerfen
