@@ -11,4 +11,4 @@
 - [ ] Seife!
 - [ ] Neue Pfannen
 - [ ] Papiermüll
-- [ ] ~~Javelin Juggler 2 (mit IOS support)~~
+- [ ] Javelin Juggler 2 (mit IOS support)
