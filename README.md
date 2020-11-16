@@ -1,7 +1,7 @@
 # TUDO list
+
 - [ ] Feinwerkstatt aufbauen (+ Beleuchtung)
 - [ ] Kühlschrank putzen
-- [x] Anlage mit Bluetooth ausrüsten --> Schnackus hat hier nen reciever schon in Bestellung.
 - [ ] Gummihandschuhe und anderen cleaning stuff besorgen
 - [ ] Neuer Wasserhahn im Cafe
 - [ ] Neuer Boden Feinwerkstatt (überlegen)
@@ -12,3 +12,7 @@
 - [ ] Neue Pfannen
 - [ ] Papiermüll
 - [ ] Javelin Juggler 2 (mit IOS support)
+
+---
+
+- [x] Anlage mit Bluetooth ausrüsten --> Schnackus hat hier nen reciever schon in Bestellung.
