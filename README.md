@@ -2,7 +2,7 @@
 
 - [ ] Feinwerkstatt aufbauen (+ Beleuchtung)
 - [ ] Kühlschrank putzen
-- [ ] Gummihandschuhe und anderen cleaning stuff besorgen
+- [x] Gummihandschuhe und anderen cleaning stuff besorgen
 - [ ] Neuer Wasserhahn im Cafe
 - [ ] Neuer Boden Feinwerkstatt (überlegen)
 - [ ] Die fetten Scheinwerfer im Café überdenken
