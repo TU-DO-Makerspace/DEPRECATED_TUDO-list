@@ -1,7 +1,7 @@
 # TUDO list
 
 - [ ] Feinwerkstatt aufbauen (+ Beleuchtung)
-- [ ] Kühlschrank putzen
+- [ ] Getränke-Kühlschrank putzen
 - [ ] Neue Gitter für Getränkekühlschrank
 - [ ] Neuer Wasserhahn im Cafe
 - [ ] Neuer Boden Feinwerkstatt (überlegen)
@@ -16,5 +16,6 @@
 
 ---
 
+- [x] Kühlschrank putzen
 - [x] Gummihandschuhe und anderen cleaning stuff besorgen --> Ist alles da, auch so agressiver Chlorreiniger
 - [x] Anlage mit Bluetooth ausrüsten --> Schnackus hat hier nen reciever schon in Bestellung.
