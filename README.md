@@ -2,7 +2,7 @@
 
 - [ ] Feinwerkstatt aufbauen (+ Beleuchtung)
 - [ ] Kühlschrank putzen
-- [x] Gummihandschuhe und anderen cleaning stuff besorgen
+- [ ] Neue Gitter für Getränkekühlschrank
 - [ ] Neuer Wasserhahn im Cafe
 - [ ] Neuer Boden Feinwerkstatt (überlegen)
 - [ ] Die fetten Scheinwerfer im Café überdenken
@@ -15,4 +15,5 @@
 
 ---
 
+- [x] Gummihandschuhe und anderen cleaning stuff besorgen --> Ist alles da, auch so agressiver Chlorreiniger
 - [x] Anlage mit Bluetooth ausrüsten --> Schnackus hat hier nen reciever schon in Bestellung.
