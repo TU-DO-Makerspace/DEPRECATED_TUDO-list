@@ -12,6 +12,7 @@
 - [ ] Papiermüll
 - [ ] neues sauberes Handtuch zum Hände abtrocknen
 - [ ] TuDo Social Media Präsens
+- [ ] Anton und Clemens auf die Schlüsselliste schreiben
 - [ ] Javelin Juggler 2 (mit IOS support)
 
 ---
