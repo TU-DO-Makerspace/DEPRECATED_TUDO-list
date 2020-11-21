@@ -11,6 +11,7 @@
 - [ ] Neue Pfannen
 - [ ] Papiermüll
 - [ ] neues sauberes Handtuch zum Hände abtrocknen
+- [ ] TuDo Social Media Präsens
 - [ ] Javelin Juggler 2 (mit IOS support)
 
 ---
