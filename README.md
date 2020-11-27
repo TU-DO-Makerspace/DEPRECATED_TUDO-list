@@ -14,7 +14,7 @@
 - [ ] TuDo Social Media Präsens
 - [ ] Anton und Clemens auf die Schlüsselliste schreiben
 - [ ] Javelin Juggler 2 (mit IOS support)
-
+- [ ] TuDo Liste in Slack integrieren
 ---
 
 - [x] Getränke-Kühlschrank putzen
