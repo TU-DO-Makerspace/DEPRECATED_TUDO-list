@@ -8,7 +8,6 @@
 - [ ] Neues Logo entwerfen
 - [ ] Kaffeemaschine ans Abwasser anschließen
 - [ ] Seife!
-- [ ] Neue Pfannen
 - [ ] Papiermüll
 - [ ] neues sauberes Handtuch zum Hände abtrocknen
 - [ ] TuDo Social Media Präsens
@@ -17,6 +16,7 @@
 - [ ] TuDo Liste in Slack integrieren
 ---
 
+- [x] Neue Pfannen 
 - [x] Getränke-Kühlschrank putzen
 - [x] Kühlschrank putzen
 - [x] Gummihandschuhe und anderen cleaning stuff besorgen --> Ist alles da, auch so agressiver Chlorreiniger
