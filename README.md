@@ -7,8 +7,9 @@
 - [ ] Die fetten Scheinwerfer im Café überdenken
 - [ ] Neues Logo entwerfen
 - [ ] Kaffeemaschine ans Abwasser anschließen
-- [ ] Seife!
-- [ ] Papiermüll
+- [ ] (Seife!) -> ist doch noch ein Rest da
+- [ ] (Papiermüll) -> provisorisch jetzt was da
+- [ ] Biomülleimer Schimmel entfernen
 - [ ] neues sauberes Handtuch zum Hände abtrocknen
 - [ ] TuDo Social Media Präsens
 - [ ] Anton und Clemens auf die Schlüsselliste schreiben
